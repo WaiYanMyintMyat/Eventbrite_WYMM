@@ -1,4 +1,18 @@
 <resources>
     <string name="app_name">Eventbrite_WYMM</string>
     <string name="action_settings">Settings</string>
+    <string name="good_in">What\'s good in</string>
+    <string name="city"><u>New York</u></string>
+    <string name="editor_picks">Editor\'s Picks</string>
+    <string name="mar">MAR</string>
+    <string name="nyc">NYC Winter Wine Festival 2019</string>
+    <string name="playstation">PlayStation Theater</string>
+    <string name="on_event_brite">on Eventbrite</string>
+    <string name="chocolate_wine"><![CDATA[Chocolate, Wine & Whiskey Festival - Brooklyn]]></string>
+    <string name="satmar9">Sat, Mar 9 - 12:00 PM EST</string>
+    <string name="brokklyn">Brooklyn ECPO Center</string>
+    <string name="new_york_2019">New York 2019 Career Fair.</string>
+    <string name="thufeb">Thu, Feb 28 . 9:30 AM EST</string>
+    <string name="doubletree">DoubleTree by Hilton Hotel</string>
+    <string name="see_more">See more events like this</string>
 </resources>

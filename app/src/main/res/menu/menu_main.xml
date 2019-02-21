@@ -1,10 +1,11 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.wymm.eventbrite_wymm.MainActivity">
+    tools:context="com.wymm.eventbrite_wymm.activities.MainActivity">
     <item
-        android:id="@+id/action_settings"
+        android:id="@+id/menu_notification"
+        android:icon="@drawable/ic_notifications_white_24dp"
         android:orderInCategory="100"
-        android:title="@string/action_settings"
-        app:showAsAction="never" />
+        android:title="Notification"
+        app:showAsAction="ifRoom" />
 </menu>
